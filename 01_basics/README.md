@@ -1,10 +1,12 @@
 # 📝 Python Basics
 
-Welcome to **Python Basics**! 🚀  
-This section covers the foundations of Python that every developer must know.  
+This section introduces the fundamentals of Python programming.  
+If you’re a complete beginner, start here 🚀.
 
-## 📌 Topics
-- Installing Python & setting up environment
+---
+
+## 📌 Topics Covered
+- Print your first program
 - Variables & Data Types
 - Strings & String Methods
 - Lists, Tuples, Sets, Dictionaries
@@ -12,14 +14,27 @@ This section covers the foundations of Python that every developer must know.
 - Functions
 - Basic Input/Output
 
-## 🎯 Learning Goals
-- Write your first Python program
-- Understand core data types and structures
-- Use loops and conditions to control program flow
-- Create simple reusable functions
+---
 
-## 🧑‍💻 Exercises
-- Create a program that asks for your name and prints a greeting
-- Write a calculator for addition, subtraction, multiplication, division
-- Reverse a string
-- Find the largest number in a list
+## 📂 Files in this folder
+- `hello_world.py` → Your very first Python program
+- `variables.py` → Learn about data types and variables
+- `control_flow.py` → Conditional statements and loops
+- `data_structures.py` → Working with Python collections
+- `functions.py` and `functions_recursion.py` → Writing reusable functions
+- `exercises/` → Practice problems with solutions
+
+---
+
+## 🎯 Learning Goals
+- Write simple Python programs
+- Understand data types & collections
+- Use loops & conditions to control flow
+- Create and call functions
+
+---
+
+## 🧑‍💻 Quick Start
+Run the first program:
+```bash
+python hello_world.py
